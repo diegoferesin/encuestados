@@ -17,19 +17,3 @@ Para poder realizar el proyecto Encuestados es necesario contar con conocimiento
 Finalmente, es necesario conocer sobre patrones de diseño en JavaScript y en detalle sobre MVC.
 
 [Acámica](https://www.acamica.com/desarrollo-web-full-stack 'titulo')
-
-## base-project
-
-## Desarrollo
-
-```bash
-# instalar dependencias
-npm i
-
-# modo desarrollo
-npm start
-```
-
-## Licencia
-
-ISC
